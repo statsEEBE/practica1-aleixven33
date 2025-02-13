@@ -28,3 +28,4 @@ IQR(mis_dades$cyl)
 
 sd(mis_dades$cyl) #desviación típica
 var(mis_dades$qsec) #varianza corregida
+asfafasf
